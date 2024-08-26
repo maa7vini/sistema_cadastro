@@ -1,0 +1,24 @@
+﻿body {
+    background: linear-gradient(0deg, rgba(101, 154, 132, 1.0), rgba(44, 178, 83, 1.0));
+}
+
+h1 {
+    font-size: 3em;
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+input {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none !important;
+    color: white !important;
+    text-shadow: none;
+    font-weight: bold;
+    margin-top: 20px !important;
+}

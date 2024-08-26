@@ -1,0 +1,36 @@
+﻿body {
+    background: linear-gradient(0deg, rgba(101, 154, 132, 1.0), rgba(44, 178, 83, 1.0));
+}
+
+h1 {
+    font-size: 3em;
+    color: white;
+}
+
+.table {
+    border: 1px solid white;
+}
+
+a {
+    text-decoration: none !important;
+    color: white !important;
+    text-shadow: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: ghostwhite;
+}
+
+td {
+    color: white;
+    font-weight: bold;
+}
+
+tr {
+    color: white;
+    border: 1px solid white;
+}
+
+
+
